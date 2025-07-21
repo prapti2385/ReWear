@@ -90,7 +90,3 @@ Follow these instructions to get the project up and running on your local machin
     npm start
     ```
     > The application will open at `http://localhost:3000`.
-
-### Environment Variables
-
-You need to create a `.env` file in the `backend` directory with the following variables:
