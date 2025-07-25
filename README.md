@@ -71,8 +71,6 @@ Follow these instructions to get the project up and running on your local machin
     # Install dependencies
     npm install
 
-    # Create a .env file and add your variables (see below)
-
     # Start the server
     npm run dev
     ```
